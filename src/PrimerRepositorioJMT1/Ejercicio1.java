@@ -12,6 +12,8 @@ public class Ejercicio1 {
 		System.out.println("Creador del repositorio: Juan");
 		
 		System.out.println("Hola Juaaaaaaaan :)");
+		
+		System.out.println("Vamos JUAAAAAN");
 
 	}
 
