@@ -10,6 +10,8 @@ public class Ejercicio1 {
 		
 		
 		System.out.println("Creador del repositorio: Juan");
+		
+		System.out.println("Hola Juaaaaaaaan :)");
 
 	}
 
