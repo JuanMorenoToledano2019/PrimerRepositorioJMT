@@ -14,6 +14,8 @@ public class Ejercicio1 {
 		System.out.println("Hola Juaaaaaaaan :)");
 		
 		System.out.println("Vamos JUAAAAAN");
+		
+		System.out.println("Error 404");
 
 	}
 
